@@ -1,0 +1,4 @@
+name = File Window
+description = Filefield files will be opened in a new window.
+core = 6.x
+package = Worx Components
